@@ -1,0 +1,7 @@
+﻿main.obj : error LNK2019: 无法解析的外部符号 "int __cdecl Sum(int,int,int)" (?Sum@@YAHHHH@Z)，函数 main 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      Sum
+main.obj : error LNK2019: 无法解析的外部符号 "int __cdecl Product(int,int,int)" (?Product@@YAHHHH@Z)，函数 main 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      Product
+D:\B\》SW_Proj_AdvancedLangRepo《\C\国家开放大学\1\C语言概述\x64\Debug\C语言概述.exe : fatal error LNK1120: 2 个无法解析的外部命令
